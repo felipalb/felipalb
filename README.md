@@ -23,7 +23,7 @@
     <img align="center" alt="ad ilustrator" src= "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 </div><br/>
 <h2>Apaixonado por tecnologia e suas vertentes. 
-Sempre disposto a encarar novos desafios e usar a criatividade para solucionar problemas.</h2>
+Sempre disposto a encarar novos desafios e usar a criatividade para solucionar problemas ❤️‍🔥</h2>
 
 ## Contato
 
