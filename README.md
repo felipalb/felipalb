@@ -5,6 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alberto-8b01a2268/)
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipalb&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipalb&hide_progress=true)
+
 ## Tecnologias do meu dia a dia
 <div style= "display: inline_block"><br/>
     <img align="center" alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,8 +22,8 @@
     <img align="center" alt="figma" src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="ad ilustrator" src= "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 </div><br/>
-Apaixonado por tecnologia e suas vertentes. 
-Sempre disposto a encarar novos desafios e usar a criatividade para solucionar problemas.
+<h2>Apaixonado por tecnologia e suas vertentes. 
+Sempre disposto a encarar novos desafios e usar a criatividade para solucionar problemas.</h2>
 
 ## Contato
 
