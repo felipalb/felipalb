@@ -16,7 +16,7 @@
     <img align="center" alt="python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="sql" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="figma" src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    <img align="center" alt="swift" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=swift&logoColor=white"/>
+    <img align="center" alt="swift" src= "https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=swift&logoColor=white"/>
 </div><br/>
 <h2>Apaixonado por tecnologia e suas vertentes. 
 Sempre disposto a encarar novos desafios e usar a criatividade para solucionar problemas 💻</h2>
