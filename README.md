@@ -17,8 +17,9 @@
     <img align="center" alt="figma" src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="swift" src= "https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=swift&logoColor=white"/>
 </div><br/>
-<h2>Apaixonado por tecnologia e suas vertentes. 
-Sempre disposto a encarar novos desafios e usar a criatividade para solucionar problemas 💻</h2>
+<h2>A Software Engineering graduate from FIAP and a participant in the Apple Developer Academy, where, with a keen interest in meeting societal needs and challenges, I develop several iOS apps, leveraging my knowledge in practice and learning from documentation and online materials to bring practical, profitable technologies and products to life for end users.
+
+I currently work as a Mobile Software QA, combining critical thinking and a focus on product quality to transform technology into solutions that matter.</h2>
 
 ## Contato
 
