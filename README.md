@@ -10,7 +10,7 @@
 <div style= "display: inline_block"><br/>
     <img align="center" alt="swift" src= "https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=swift&logoColor=white"/>
     <img align="center" alt="Js" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="Ts" src= "https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img align="center" alt="Ts" src= "https://img.shields.io/badge/TypeScript-E34F26?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align="center" alt="react" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="sql" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
