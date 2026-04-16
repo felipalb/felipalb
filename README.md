@@ -20,4 +20,4 @@
 ## Contact info
 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5519999929394)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipealbertosantos@outlook.com)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:felipealbertosantos@outlook.com)
